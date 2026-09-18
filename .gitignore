@@ -1,0 +1,21 @@
+# Node.js dependencies
+node_modules/
+
+# Local Browser Session & Cookies (CRITICAL: Never push session data or cookies to GitHub!)
+session/
+
+# Environment variables & sensitive config
+.env
+
+# Logs and runtime data
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
